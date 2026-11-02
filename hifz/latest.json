@@ -1,9 +1,9 @@
 {
-  "build": 45,
-  "version": "1.0.45",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-45/hifz-web-45.zip",
-  "sha256": "5d6e7278c857a1c4cba2f8a71d49befbb99cc752d5ba084898b14a1c87e32233",
+  "build": 46,
+  "version": "1.0.46",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-46/hifz-web-46.zip",
+  "sha256": "eb0b44de2b86d542a09b04fb4519414da68b722a2ada0f18b9979c141f07cdc7",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Accueil : deux nouveaux anneaux à faire glisser — versets dans l’ordre du moṣḥaf, puis passages fragiles et oubliés",
-  "date": "2026-11-02T21:11:26Z"
+  "notes": "Anneaux de l’accueil : mémorisé au centre, passages à gauche, versets à droite, en boucle ; glissement corrigé en arabe",
+  "date": "2026-11-02T21:41:10Z"
 }
