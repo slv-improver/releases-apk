@@ -1,9 +1,9 @@
 {
-  "build": 41,
-  "version": "1.0.41",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-41/hifz-web-41.zip",
-  "sha256": "912f0f8f7cbb3435caeb3d5acbf98dbf9afd27bb48783a5de211fa7a3fd8c304",
+  "build": 42,
+  "version": "1.0.42",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-42/hifz-web-42.zip",
+  "sha256": "3ab61223ceb4e63166aa7228b14462d85900e89f2a380f2f861f1b3e8be6f314",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Révision aléatoire : ce qui reste à réciter est masqué ; tirage seulement si les 3 mots (ou 15 lettres) d’avant sont visibles",
-  "date": "2026-11-02T18:44:05Z"
+  "notes": "Révision aléatoire des erreurs : priorité stricte à revoir, rouge, rouge court, orange, jaune, puis extraits décisifs",
+  "date": "2026-11-02T18:50:37Z"
 }
