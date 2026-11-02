@@ -1,9 +1,9 @@
 {
-  "build": 36,
-  "version": "1.0.36",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-36/hifz-web-36.zip",
-  "sha256": "4e62cce5a1c11ea8b23dc133d7b8dd56e6d8dd40b223912e13141d7d20245bb7",
+  "build": 37,
+  "version": "1.0.37",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-37/hifz-web-37.zip",
+  "sha256": "5eed3e6f2ba1341cbfd2fe0ba53480015876bdbc0afea3f3c4433c71a53c8715",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Le jour de révision commence à 2 h ; carte en arabe (numéro de sourate avant le nom)",
-  "date": "2026-11-02T11:22:00Z"
+  "notes": "Mots « à revoir » en violet dans la séance et le moṣḥaf",
+  "date": "2026-11-02T13:03:15Z"
 }
