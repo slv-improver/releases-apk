@@ -1,9 +1,9 @@
 {
-  "build": 33,
-  "version": "1.0.33",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-33/hifz-web-33.zip",
-  "sha256": "cb1fff3d5fd97b1e27ae04cdeedaa1dd5bdc1174f2daade5eab69bd8f7cc7ce6",
+  "build": 34,
+  "version": "1.0.34",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-34/hifz-web-34.zip",
+  "sha256": "1624749890a68128b65ea60392a141ec38efc94c690825e0e5e455a301b0d662",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Mode arabe (admin) ; Révision du soir = liste des mots rouges",
-  "date": "2026-11-02T10:22:48Z"
+  "notes": "Révision du soir : brique à côté de « à revoir » (versets en révision quotidienne avec un mot rouge)",
+  "date": "2026-11-02T10:34:35Z"
 }
