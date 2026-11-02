@@ -1,9 +1,9 @@
 {
-  "build": 35,
-  "version": "1.0.35",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-35/hifz-web-35.zip",
-  "sha256": "59edbd99e96dd8c6f2280fd2c5bf02a3c5ce52fde7f56066819a3ca1287cf362",
+  "build": 36,
+  "version": "1.0.36",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-36/hifz-web-36.zip",
+  "sha256": "4e62cce5a1c11ea8b23dc133d7b8dd56e6d8dd40b223912e13141d7d20245bb7",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Mode arabe : إرتاج (blocage), تبديل (substitution)",
-  "date": "2026-11-02T10:47:51Z"
+  "notes": "Le jour de révision commence à 2 h ; carte en arabe (numéro de sourate avant le nom)",
+  "date": "2026-11-02T11:22:00Z"
 }
