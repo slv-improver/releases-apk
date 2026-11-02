@@ -1,9 +1,9 @@
 {
-  "build": 44,
-  "version": "1.0.44",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-44/hifz-web-44.zip",
-  "sha256": "8bb9f8f0549103f7ac6605d8aa41d457e21bdb87822d546044880b6af36c801d",
+  "build": 45,
+  "version": "1.0.45",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-45/hifz-web-45.zip",
+  "sha256": "5d6e7278c857a1c4cba2f8a71d49befbb99cc752d5ba084898b14a1c87e32233",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Interface arabe : police Noto Naskh Arabic intégrée, 15 % plus grande (le texte du Coran ne change pas)",
-  "date": "2026-11-02T20:59:41Z"
+  "notes": "Accueil : deux nouveaux anneaux à faire glisser — versets dans l’ordre du moṣḥaf, puis passages fragiles et oubliés",
+  "date": "2026-11-02T21:11:26Z"
 }
