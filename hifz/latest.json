@@ -1,9 +1,9 @@
 {
-  "build": 37,
-  "version": "1.0.37",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-37/hifz-web-37.zip",
-  "sha256": "5eed3e6f2ba1341cbfd2fe0ba53480015876bdbc0afea3f3c4433c71a53c8715",
+  "build": 38,
+  "version": "1.0.38",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-38/hifz-web-38.zip",
+  "sha256": "b8cc866ee0a1c8e53f91b7cf2f97f1328d17e40e6536e6313a8a54aff5ebddba",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Mots « à revoir » en violet dans la séance et le moṣḥaf",
-  "date": "2026-11-02T13:03:15Z"
+  "notes": "Fiche de l’appui long et programmation en arabe ; divergence de lecture toujours en arabe",
+  "date": "2026-11-02T13:58:34Z"
 }
