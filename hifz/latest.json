@@ -1,9 +1,9 @@
 {
-  "build": 38,
-  "version": "1.0.38",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-38/hifz-web-38.zip",
-  "sha256": "b8cc866ee0a1c8e53f91b7cf2f97f1328d17e40e6536e6313a8a54aff5ebddba",
+  "build": 39,
+  "version": "1.0.39",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-39/hifz-web-39.zip",
+  "sha256": "464e8de3dd35e6875ca579740799557da0a133f65e6441a745fd3b1c275849f4",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Fiche de l’appui long et programmation en arabe ; divergence de lecture toujours en arabe",
-  "date": "2026-11-02T13:58:34Z"
+  "notes": "Mode arabe : centre d’aide, statistiques, déclaration, réglages détaillés, messages et section éditoriale traduits ; « القراءات » pour les divergences",
+  "date": "2026-11-02T14:39:34Z"
 }
