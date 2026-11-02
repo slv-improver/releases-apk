@@ -1,9 +1,9 @@
 {
-  "build": 39,
-  "version": "1.0.39",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-39/hifz-web-39.zip",
-  "sha256": "464e8de3dd35e6875ca579740799557da0a133f65e6441a745fd3b1c275849f4",
+  "build": 40,
+  "version": "1.0.40",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-40/hifz-web-40.zip",
+  "sha256": "328e10341cbab715da884df40d8e143fcf0991e6e98d50a95116efc8bf43f16d",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Mode arabe : centre d’aide, statistiques, déclaration, réglages détaillés, messages et section éditoriale traduits ; « القراءات » pour les divergences",
-  "date": "2026-11-02T14:39:34Z"
+  "notes": "Légende du moṣḥaf : « لبيان اختلاف القراءات في هذه الكلمة »",
+  "date": "2026-11-02T15:29:52Z"
 }
