@@ -1,9 +1,9 @@
 {
-  "build": 31,
-  "version": "1.0.31",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-31/hifz-web-31.zip",
-  "sha256": "5d5ddbe3c5b3091f88c9965e0dec3c57123c1a1b55855eb22e9f230b72d21a02",
+  "build": 32,
+  "version": "1.0.32",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-32/hifz-web-32.zip",
+  "sha256": "16c9c96c49f307bd630491017d1ad31482ce8dc857ed8bcc2127e8a3bea42aa3",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Un passage fragile ou oublié ne monte plus de palier (consolidation, entretien) ; état du mot simplifié",
-  "date": "2026-11-01T08:26:07Z"
+  "notes": "Accueil : Révision du soir (versets en révision quotidienne avec des erreurs)",
+  "date": "2026-11-02T10:02:54Z"
 }
