@@ -1,9 +1,9 @@
 {
-  "build": 40,
-  "version": "1.0.40",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-40/hifz-web-40.zip",
-  "sha256": "328e10341cbab715da884df40d8e143fcf0991e6e98d50a95116efc8bf43f16d",
+  "build": 41,
+  "version": "1.0.41",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-41/hifz-web-41.zip",
+  "sha256": "912f0f8f7cbb3435caeb3d5acbf98dbf9afd27bb48783a5de211fa7a3fd8c304",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Légende du moṣḥaf : « لبيان اختلاف القراءات في هذه الكلمة »",
-  "date": "2026-11-02T15:29:52Z"
+  "notes": "Révision aléatoire : ce qui reste à réciter est masqué ; tirage seulement si les 3 mots (ou 15 lettres) d’avant sont visibles",
+  "date": "2026-11-02T18:44:05Z"
 }
