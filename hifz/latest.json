@@ -1,9 +1,9 @@
 {
-  "build": 52,
-  "version": "1.0.52",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-52/hifz-web-52.zip",
-  "sha256": "3d9b331eb0df72cfd91c692dd2688fe36a1b4efb11fad46e80ea88e843a62650",
+  "build": 53,
+  "version": "1.0.53",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-53/hifz-web-53.zip",
+  "sha256": "2944eb63846d58cbdb58f6385bd04b6ebe0da9505c9812dac3e9a7e1fd6f737b",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Mode arabe : séparateur « — » au lieu de la virgule « ، »",
-  "date": "2026-11-03T06:30:55Z"
+  "notes": "Mémorisation : le bouton « Passage » n’apparaît plus que hors des pages du passage (traduit en arabe)",
+  "date": "2026-11-03T06:52:12Z"
 }
