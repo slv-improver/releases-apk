@@ -1,9 +1,9 @@
 {
-  "build": 53,
-  "version": "1.0.53",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-53/hifz-web-53.zip",
-  "sha256": "2944eb63846d58cbdb58f6385bd04b6ebe0da9505c9812dac3e9a7e1fd6f737b",
+  "build": 54,
+  "version": "1.0.54",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-54/hifz-web-54.zip",
+  "sha256": "78fe4cf1f2e73df82cd21722798caee7823bfb44f552e4051b6b2c48c4621b9e",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Mémorisation : le bouton « Passage » n’apparaît plus que hors des pages du passage (traduit en arabe)",
-  "date": "2026-11-03T06:52:12Z"
+  "notes": "Arabe : menu du bas et barres de lecture, séance et mémorisation disposés comme en français ; bouton Mot / Phrase / Verset qui suit le doigt",
+  "date": "2026-11-03T08:50:27Z"
 }
