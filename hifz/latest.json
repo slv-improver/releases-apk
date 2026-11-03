@@ -1,9 +1,9 @@
 {
-  "build": 50,
-  "version": "1.0.50",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-50/hifz-web-50.zip",
-  "sha256": "ccd2ab4d6714b66935969f09116fd7a4b501829b1fc5536894fb7b30df4fd6be",
+  "build": 51,
+  "version": "1.0.51",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-51/hifz-web-51.zip",
+  "sha256": "a292865c6d4edf00c2d835097b31404a5131df49a73bff21662f28c2a94416ce",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Page d’anneau : le centre de l’anneau n’attrape plus le doigt, la page y défile",
-  "date": "2026-11-03T05:54:51Z"
+  "notes": "Police de base : Noto Naskh Arabic pour tout le texte arabe hors Coran, dans les deux langues",
+  "date": "2026-11-03T06:01:59Z"
 }
