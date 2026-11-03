@@ -1,9 +1,9 @@
 {
-  "build": 46,
-  "version": "1.0.46",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-46/hifz-web-46.zip",
-  "sha256": "eb0b44de2b86d542a09b04fb4519414da68b722a2ada0f18b9979c141f07cdc7",
+  "build": 47,
+  "version": "1.0.47",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-47/hifz-web-47.zip",
+  "sha256": "7b9a33eb4e5eb6aed1eaa555e3e7582f115af23ab72b99f558844118309efb28",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Anneaux de l’accueil : mémorisé au centre, passages à gauche, versets à droite, en boucle ; glissement corrigé en arabe",
-  "date": "2026-11-02T21:41:10Z"
+  "notes": "Anneaux : toucher l’anneau des versets ou des passages ouvre sa page — glisser le doigt autour, bande de zoom sur un dixième du Coran, fiche de l’endroit",
+  "date": "2026-11-03T05:02:11Z"
 }
