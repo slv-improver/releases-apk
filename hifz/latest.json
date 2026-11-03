@@ -1,9 +1,9 @@
 {
-  "build": 56,
-  "version": "1.0.56",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-56/hifz-web-56.zip",
-  "sha256": "04420c245f04297782268b8392ff395d95460bde834a6ca26a32d23c8c127c72",
+  "build": 57,
+  "version": "1.0.57",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-57/hifz-web-57.zip",
+  "sha256": "067b052c18a3b6ea48fbe59e566ac600b7a0c7a8762906a792ba60527749678c",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Nouvelle page Statistiques (menu du bas) : erreurs commises et à réciter par jour sur 7 ou 30 jours, mots pièges, types d’erreurs, régularité, mots révisés et mémorisés",
-  "date": "2026-11-03T15:31:14Z"
+  "notes": "Auto-test : sourate (nom et numéro) dans la réponse, boutons disposés comme en français, texte Warsh du contexte dans la police Warsh",
+  "date": "2026-11-03T19:06:31Z"
 }
