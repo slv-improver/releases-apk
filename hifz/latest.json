@@ -1,9 +1,9 @@
 {
-  "build": 49,
-  "version": "1.0.49",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-49/hifz-web-49.zip",
-  "sha256": "868acf211992bab469ee545d27d5806127d9ddc1320503103a36372ff8cb9082",
+  "build": 50,
+  "version": "1.0.50",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-50/hifz-web-50.zip",
+  "sha256": "ccd2ab4d6714b66935969f09116fd7a4b501829b1fc5536894fb7b30df4fd6be",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Anneau « mémorisé » de l’accueil : se remplit aussi dans le sens de lecture (anti-horaire)",
-  "date": "2026-11-03T05:33:57Z"
+  "notes": "Page d’anneau : le centre de l’anneau n’attrape plus le doigt, la page y défile",
+  "date": "2026-11-03T05:54:51Z"
 }
