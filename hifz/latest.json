@@ -1,9 +1,9 @@
 {
-  "build": 55,
-  "version": "1.0.55",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-55/hifz-web-55.zip",
-  "sha256": "ff404b15f3b588b0e588261da97836b7715df9df1ae3f20a710a67825e1a609c",
+  "build": 56,
+  "version": "1.0.56",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-56/hifz-web-56.zip",
+  "sha256": "04420c245f04297782268b8392ff395d95460bde834a6ca26a32d23c8c127c72",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Mémorisation : flèche ↩ (comme en séance) qui ramène à la page du passage la plus proche",
-  "date": "2026-11-03T09:51:21Z"
+  "notes": "Nouvelle page Statistiques (menu du bas) : erreurs commises et à réciter par jour sur 7 ou 30 jours, mots pièges, types d’erreurs, régularité, mots révisés et mémorisés",
+  "date": "2026-11-03T15:31:14Z"
 }
