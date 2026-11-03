@@ -1,9 +1,9 @@
 {
-  "build": 48,
-  "version": "1.0.48",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-48/hifz-web-48.zip",
-  "sha256": "c3024916ea08b50e8569c3402ca4125703cf6c47552dfb209ce4cb47d99b84f6",
+  "build": 49,
+  "version": "1.0.49",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-49/hifz-web-49.zip",
+  "sha256": "868acf211992bab469ee545d27d5806127d9ddc1320503103a36372ff8cb9082",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Noms de sourates toujours en arabe ; anneaux dans le sens de lecture (anti-horaire), bande de droite à gauche sur un vingtième du Coran",
-  "date": "2026-11-03T05:20:15Z"
+  "notes": "Anneau « mémorisé » de l’accueil : se remplit aussi dans le sens de lecture (anti-horaire)",
+  "date": "2026-11-03T05:33:57Z"
 }
