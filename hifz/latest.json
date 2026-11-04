@@ -1,9 +1,9 @@
 {
-  "build": 58,
-  "version": "1.0.58",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-58/hifz-web-58.zip",
-  "sha256": "8805302b56c8f5125e6e5dbf11593ea5cb208ba077a08c4f7114ba68d41c5a1c",
+  "build": 59,
+  "version": "1.0.59",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-59/hifz-web-59.zip",
+  "sha256": "268ee3f64991509ca601eb4cecdef92997e9e0d922c0f18ede9af577573d7013",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Statistiques en onglets (Erreurs, Révision, Mémorisation), graphiques affichés directement, nouveau graphique des mots appris par jour sur 30 jours",
-  "date": "2026-11-04T07:29:10Z"
+  "notes": "Graphiques par jour de droite à gauche en arabe ; Centre d’aide : anneaux de l’accueil, flèche de retour en mémorisation, statistiques, sourate dans l’auto-test",
+  "date": "2026-11-04T08:24:26Z"
 }
