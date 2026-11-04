@@ -1,9 +1,9 @@
 {
-  "build": 62,
-  "version": "1.0.62",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-62/hifz-web-62.zip",
-  "sha256": "3f07777d42d3fb5b1b9554ac09c7a7f9964c8d71645c8d055bfd97ebaa8d2684",
+  "build": 63,
+  "version": "1.0.63",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-63/hifz-web-63.zip",
+  "sha256": "c815c8c1d934ee2620d5bd3f068013ef451e2518881705e166d9c509d904dece",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Retrait des anciennes pages « Le Coran en points » et « Mots révisés » (remplacées par la page Statistiques)",
-  "date": "2026-11-04T10:59:40Z"
+  "notes": "Acquis déclarés : consolidation 7 j puis entretien après 5 échéances justes ; loupe de la carte du Coran traduite en arabe",
+  "date": "2026-11-04T18:18:00Z"
 }
