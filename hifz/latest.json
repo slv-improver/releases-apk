@@ -1,9 +1,9 @@
 {
-  "build": 63,
-  "version": "1.0.63",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-63/hifz-web-63.zip",
-  "sha256": "c815c8c1d934ee2620d5bd3f068013ef451e2518881705e166d9c509d904dece",
+  "build": 64,
+  "version": "1.0.64",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-64/hifz-web-64.zip",
+  "sha256": "28862d1f8bd54676fe0510fa7baae340f660098ee15bd4cffb324fdcaff68a2b",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Acquis déclarés : consolidation 7 j puis entretien après 5 échéances justes ; loupe de la carte du Coran traduite en arabe",
-  "date": "2026-11-04T18:18:00Z"
+  "notes": "Listes de mots par couleur ; aléatoire : à revoir en premier, passages compris ; trait orange sous les passages ; en-tête à deux sourates ; enchaînement après une erreur par mots",
+  "date": "2026-11-04T21:59:58Z"
 }
