@@ -1,9 +1,9 @@
 {
-  "build": 60,
-  "version": "1.0.60",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-60/hifz-web-60.zip",
-  "sha256": "2354457d238608b492f9a635fabc6e2d397c7c93deee3a51d2b1ddf7d5e747f6",
+  "build": 61,
+  "version": "1.0.61",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-61/hifz-web-61.zip",
+  "sha256": "d1918c6a35f62771236c43c2ecaf53b9e36bffef020b45bac7f9eede3708c8ed",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Statistiques : carte du Coran sans cadre, au bord de la carte ; onglets collés sous la barre du haut",
-  "date": "2026-11-04T08:40:07Z"
+  "notes": "Statistiques : carte du Coran aux points agrandis (2 pixels d’écart), marge d’un point",
+  "date": "2026-11-04T10:47:46Z"
 }
