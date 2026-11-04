@@ -1,9 +1,9 @@
 {
-  "build": 61,
-  "version": "1.0.61",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-61/hifz-web-61.zip",
-  "sha256": "d1918c6a35f62771236c43c2ecaf53b9e36bffef020b45bac7f9eede3708c8ed",
+  "build": 62,
+  "version": "1.0.62",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-62/hifz-web-62.zip",
+  "sha256": "3f07777d42d3fb5b1b9554ac09c7a7f9964c8d71645c8d055bfd97ebaa8d2684",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Statistiques : carte du Coran aux points agrandis (2 pixels d’écart), marge d’un point",
-  "date": "2026-11-04T10:47:46Z"
+  "notes": "Retrait des anciennes pages « Le Coran en points » et « Mots révisés » (remplacées par la page Statistiques)",
+  "date": "2026-11-04T10:59:40Z"
 }
