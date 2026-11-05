@@ -1,9 +1,9 @@
 {
-  "build": 65,
-  "version": "1.0.65",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-65/hifz-web-65.zip",
-  "sha256": "2406f6901d42d9e28b6f16f779fa4c5616e5a29e9c00d9a562ee4d6fc5df5a4b",
+  "build": 66,
+  "version": "1.0.66",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-66/hifz-web-66.zip",
+  "sha256": "7971fdd362962da818f82510faf8663d03536365419e18ced1cefe192f18d769",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Enchaînement après une erreur : une erreur dans les mots ajoutés ne le rallonge pas",
-  "date": "2026-11-05T07:25:13Z"
+  "notes": "Enchaînement après une erreur : seulement pour les erreurs d’avant la séance",
+  "date": "2026-11-05T10:28:40Z"
 }
