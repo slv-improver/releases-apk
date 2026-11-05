@@ -1,9 +1,9 @@
 {
-  "build": 66,
-  "version": "1.0.66",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-66/hifz-web-66.zip",
-  "sha256": "7971fdd362962da818f82510faf8663d03536365419e18ced1cefe192f18d769",
+  "build": 67,
+  "version": "1.0.67",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-67/hifz-web-67.zip",
+  "sha256": "74f6867570c5dfe18319cc2b77abf6d033cfa5ca2b4bfc1c80421247e728ace8",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Enchaînement après une erreur : seulement pour les erreurs d’avant la séance",
-  "date": "2026-11-05T10:28:40Z"
+  "notes": "Double trait orange sous les mots dont la récitation est décisive",
+  "date": "2026-11-05T11:22:49Z"
 }
