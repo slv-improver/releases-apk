@@ -1,9 +1,9 @@
 {
-  "build": 69,
-  "version": "1.0.69",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-69/hifz-web-69.zip",
-  "sha256": "4d05b46d0d2b1ca173f1d708eaca9629f895c70f41f832e9311f161a99235dfd",
+  "build": 70,
+  "version": "1.0.70",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-70/hifz-web-70.zip",
+  "sha256": "6fd3c777b52d75b8fe6c12a43b440b62ec659eaf2d0f9a0b4dd07fe8b030b0c7",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Mots d’une liste : contexte sur place et flèche retour ; décisifs entre parenthèses par couleur ; confusions de riwāya hors enchaînement ; jaune plus lisible ; arrière-plan figé sous les feuilles",
-  "date": "2026-11-06T10:00:32Z"
+  "notes": "Cartes de l’accueil en deux (révision / liste du jour) ; erreur « Doute » ; mutashābihāt : comparer et chercher, groupes, auto-test vérifié ; statistiques : charge prévue, réussite par palier, délai de guérison",
+  "date": "2026-11-07T07:18:18Z"
 }
