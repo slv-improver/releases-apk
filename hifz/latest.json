@@ -1,9 +1,9 @@
 {
-  "build": 71,
-  "version": "1.0.71",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-71/hifz-web-71.zip",
-  "sha256": "e42481a3b37fbb8cd5351a124b7b7a91a0c05b2495476e719e0f32835496a0e6",
+  "build": 72,
+  "version": "1.0.72",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-72/hifz-web-72.zip",
+  "sha256": "15770da0b09526954b0ddeb801fc8e15f7bfd534da66a9abc6f63f35c8d47431",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Mots en erreur : lignes compactes avec contexte, extraits à relire seulement, aléatoire par sourate/juz’ ; contexte d’un mot qui masque toutes les erreurs ; découpage des juz’ 26–30 aligné sur la carte ; pages en chiffres arabes ; correctifs d’affichage",
-  "date": "2026-11-07T22:42:35Z"
+  "notes": "Relecture des mots en erreur : couper l’aléatoire reprend l’ordre de la liste ; Warsh : البريئة (98:6-7), خطيئتي (26:82), سيئت (67:27) correctement écrits ; listes de mots : fonds et couleurs, ouverture de section en haut",
+  "date": "2026-11-08T14:54:25Z"
 }
