@@ -1,9 +1,9 @@
 {
-  "build": 72,
-  "version": "1.0.72",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-72/hifz-web-72.zip",
-  "sha256": "15770da0b09526954b0ddeb801fc8e15f7bfd534da66a9abc6f63f35c8d47431",
+  "build": 73,
+  "version": "1.0.73",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-73/hifz-web-73.zip",
+  "sha256": "b47af54a6e6732cd4c20d04311579bce5f6ce1610a1fe1fd9cdb3c19053f3193",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Relecture des mots en erreur : couper l’aléatoire reprend l’ordre de la liste ; Warsh : البريئة (98:6-7), خطيئتي (26:82), سيئت (67:27) correctement écrits ; listes de mots : fonds et couleurs, ouverture de section en haut",
-  "date": "2026-11-08T14:54:25Z"
+  "notes": "Aléatoire : coché, un extrait prioritaire tout de suite ; décoché, la suite reprend après l’extrait en cours dans l’ordre du moṣḥaf ; pourcentages au dixième",
+  "date": "2026-11-09T12:03:20Z"
 }
