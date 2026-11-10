@@ -1,9 +1,9 @@
 {
-  "build": 74,
-  "version": "1.0.74",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-74/hifz-web-74.zip",
-  "sha256": "7ca7a823c75cc2d8d25fb0132ebffc76299b9ff35661c1ca85bdc5bd85e0a75b",
+  "build": 75,
+  "version": "1.0.75",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-75/hifz-web-75.zip",
+  "sha256": "1fdaf3ac4a806db1895bd3bbfe5b4433c47dcf44e6c87c2b9755e19c42a9350c",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Moṣḥaf : même taille de texte sur toutes les pages ; acquis déclaré à vérifier : une récitation par passage (plus de coupure tous les 12 versets)",
-  "date": "2026-11-10T06:56:43Z"
+  "notes": "Listes de mots : force (récitations restantes) dans les carrés ; aléatoire : rouge et rouge court ensemble ; glisser pour changer d’onglet ; relecture par couleur sans extraits qui se chevauchent ; nomenclature « en erreur » et tuiles réorganisées",
+  "date": "2026-11-10T17:14:35Z"
 }
