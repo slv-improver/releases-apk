@@ -1,9 +1,9 @@
 {
-  "build": 76,
-  "version": "1.0.76",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-76/hifz-web-76.zip",
-  "sha256": "694d6174070c0f52ef854770c60290003b136a9b841f9d6ee48e6f73de8063cf",
+  "build": 77,
+  "version": "1.0.77",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-77/hifz-web-77.zip",
+  "sha256": "664075398343b398c858721aed437660efe0821853832dd7597581c75774b36d",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Moṣḥaf : en-tête de sourate avec rang et nombre de versets (selon la riwāya) ; option admin : mise en page Médine 1441 (essai)",
-  "date": "2026-11-11T18:55:59Z"
+  "notes": "Moṣḥaf : cadre de sourate centré entre la ligne d’avant et la basmala ; bandeau du haut réduit dans le moṣḥaf",
+  "date": "2026-11-12T10:11:58Z"
 }
