@@ -1,9 +1,9 @@
 {
-  "build": 78,
-  "version": "1.0.78",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-78/hifz-web-78.zip",
-  "sha256": "3211b7047ded3aa921ca237b9321030bb6b3a97520e11d80a41a109ca19eb378",
-  "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-6/Hifz-al-Quran-6.apk",
-  "notes": "Réglages : indications derrière un « ? » ; fin de séance : rappels des mots en erreur récités ; carte : juz’ ouvert au premier toucher, colonnes plus étroites ; anneau : part du Coran par couleur ; essai plein écran / orientation (admin)",
-  "date": "2026-11-12T22:59:39Z"
+  "build": 79,
+  "version": "1.0.79",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-79/hifz-web-79.zip",
+  "sha256": "9867489d38983d6c916bb24db261f2dc6303ddef4a79be24ecb3305a68220bc9",
+  "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-79/Hifz-al-Quran-79.apk",
+  "notes": "Nouvel APK : plein écran (barres du téléphone cachées) et orientation réglables dans Réglages › Écran",
+  "date": "2026-11-13T11:29:32Z"
 }
