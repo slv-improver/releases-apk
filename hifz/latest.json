@@ -1,9 +1,9 @@
 {
-  "build": 80,
-  "version": "1.0.80",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-80/hifz-web-80.zip",
-  "sha256": "e6796a52fe9a228e28d001f09a9fe0e9dea83e9f589c26bacff871135296ba52",
+  "build": 81,
+  "version": "1.0.81",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-81/hifz-web-81.zip",
+  "sha256": "2df4d6cefab0d4e71456a35ebd4a520968ea613dda5358c659a994092f48c190",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-79/Hifz-al-Quran-79.apk",
-  "notes": "Paysage : plein écran automatique, interligne resserré, pages plus larges et texte plus grand",
-  "date": "2026-11-13T11:54:03Z"
+  "notes": "Paysage plein écran : les lignes remplissent toute la hauteur",
+  "date": "2026-11-13T13:02:11Z"
 }
