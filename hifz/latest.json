@@ -1,9 +1,9 @@
 {
-  "build": 82,
-  "version": "1.0.82",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-82/hifz-web-82.zip",
-  "sha256": "70870c95b8a199bf8483611e1aba47db902986bd1e8f77f86de3430165ec3db5",
+  "build": 83,
+  "version": "1.0.83",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-83/hifz-web-83.zip",
+  "sha256": "5db410c6dd6cfc92c12403e8d0c7a3ee8efb4920378eca236517615a9a357ce3",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-79/Hifz-al-Quran-79.apk",
-  "notes": "Paysage plein écran : marges de 5 px en haut et en bas, en-tête plus petit",
-  "date": "2026-11-13T13:55:38Z"
+  "notes": "Recherche : toute suite de lettres n'importe où ; fiche d'appui long : section Révision et état du mot en session ; divergence au simple appui hors récitation",
+  "date": "2026-11-20T16:23:20Z"
 }
