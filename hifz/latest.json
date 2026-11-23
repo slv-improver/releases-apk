@@ -1,9 +1,9 @@
 {
-  "build": 86,
-  "version": "1.0.86",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-86/hifz-web-86.zip",
-  "sha256": "510b9457763e95bc9ca38dd0b4858dbacad72614c91e8aee6782ba9a3c8f8279",
+  "build": 87,
+  "version": "1.0.87",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-87/hifz-web-87.zip",
+  "sha256": "9c83e993ddcee41d5006c13004f1ad3e0343b85579c52f081126ceb5a86bf880",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-79/Hifz-al-Quran-79.apk",
-  "notes": "Phrases : coupure par défaut aussi à صلى (ۖ).",
-  "date": "2026-11-23T12:42:28Z"
+  "notes": "Équivalent en ḥizb à côté des mots ; vrais juz' et ḥizb du moṣḥaf hors accueil (zones : ḥizb 53 depuis 51:1).",
+  "date": "2026-11-23T22:33:22Z"
 }
