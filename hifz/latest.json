@@ -1,9 +1,9 @@
 {
-  "build": 85,
-  "version": "1.0.85",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-85/hifz-web-85.zip",
-  "sha256": "35523b9efc9f75207d8c75f257f52ee53a55f854168990114bfd2106c9d550d0",
+  "build": 86,
+  "version": "1.0.86",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-86/hifz-web-86.zip",
+  "sha256": "510b9457763e95bc9ca38dd0b4858dbacad72614c91e8aee6782ba9a3c8f8279",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-79/Hifz-al-Quran-79.apk",
-  "notes": "Séance : pas de double trait quand les sujets sont décochés ; carte : le nombre du juz' compte les mots dus.",
-  "date": "2026-11-23T11:32:48Z"
+  "notes": "Phrases : coupure par défaut aussi à صلى (ۖ).",
+  "date": "2026-11-23T12:42:28Z"
 }
