@@ -1,9 +1,9 @@
 {
-  "build": 84,
-  "version": "1.0.84",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-84/hifz-web-84.zip",
-  "sha256": "4f0409e9bc51b3b2cc1baa8540b8a4280cbd3e64871a6d5ceaacdb3766806bfc",
+  "build": 85,
+  "version": "1.0.85",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-85/hifz-web-85.zip",
+  "sha256": "35523b9efc9f75207d8c75f257f52ee53a55f854168990114bfd2106c9d550d0",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-79/Hifz-al-Quran-79.apk",
-  "notes": "Regroupement aligné (sourate, ḥizb 55 à 60) sur l'échéance la plus proche ; grille des 60 ḥizb dans Statistiques › Révision.",
-  "date": "2026-11-23T10:11:30Z"
+  "notes": "Séance : pas de double trait quand les sujets sont décochés ; carte : le nombre du juz' compte les mots dus.",
+  "date": "2026-11-23T11:32:48Z"
 }
