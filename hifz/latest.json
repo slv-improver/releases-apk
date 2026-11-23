@@ -1,9 +1,9 @@
 {
-  "build": 83,
-  "version": "1.0.83",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-83/hifz-web-83.zip",
-  "sha256": "5db410c6dd6cfc92c12403e8d0c7a3ee8efb4920378eca236517615a9a357ce3",
+  "build": 84,
+  "version": "1.0.84",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-84/hifz-web-84.zip",
+  "sha256": "4f0409e9bc51b3b2cc1baa8540b8a4280cbd3e64871a6d5ceaacdb3766806bfc",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-79/Hifz-al-Quran-79.apk",
-  "notes": "Recherche : toute suite de lettres n'importe où ; fiche d'appui long : section Révision et état du mot en session ; divergence au simple appui hors récitation",
-  "date": "2026-11-20T16:23:20Z"
+  "notes": "Regroupement aligné (sourate, ḥizb 55 à 60) sur l'échéance la plus proche ; grille des 60 ḥizb dans Statistiques › Révision.",
+  "date": "2026-11-23T10:11:30Z"
 }
