@@ -1,9 +1,9 @@
 {
-  "build": 87,
-  "version": "1.0.87",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-87/hifz-web-87.zip",
-  "sha256": "9c83e993ddcee41d5006c13004f1ad3e0343b85579c52f081126ceb5a86bf880",
+  "build": 88,
+  "version": "1.0.88",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-88/hifz-web-88.zip",
+  "sha256": "fcfbae467fa5dbf49217c272873bfd8a663b173d0a1d955957fcc8b9ee345573",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-79/Hifz-al-Quran-79.apk",
-  "notes": "Équivalent en ḥizb à côté des mots ; vrais juz' et ḥizb du moṣḥaf hors accueil (zones : ḥizb 53 depuis 51:1).",
-  "date": "2026-11-23T22:33:22Z"
+  "notes": "Listes de passages : « Relire » récite un passage par récitation (et non des tranches de 12 versets).",
+  "date": "2026-11-24T00:53:08Z"
 }
