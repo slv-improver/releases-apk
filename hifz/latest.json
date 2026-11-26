@@ -1,9 +1,9 @@
 {
-  "build": 89,
-  "version": "1.0.89",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-89/hifz-web-89.zip",
-  "sha256": "ce985844fcd8295c9c212ad45e6ee1108a68ff5fb08fce64fbaf7f909736e623",
+  "build": 90,
+  "version": "1.0.90",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-90/hifz-web-90.zip",
+  "sha256": "a8a21dd172ea7810e1fb4ad914d1dd7e748254a0b3f9341c52f98da5e03c6e9b",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-79/Hifz-al-Quran-79.apk",
-  "notes": "Ordre de séance par priorité (quotidien, puis retard ÷ palier par blocs de pages) ; barre de progression ; côté de page en équerre ; suite du bloc en orange clair ; trait sous les numéros de verset ; juz' : chiffres sur la ligne du titre.",
-  "date": "2026-11-26T00:44:07Z"
+  "notes": "Équerre de côté de page à 2 px du bord de l'écran.",
+  "date": "2026-11-26T01:01:45Z"
 }
