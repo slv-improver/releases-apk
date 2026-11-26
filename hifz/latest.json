@@ -1,9 +1,9 @@
 {
-  "build": 91,
-  "version": "1.0.91",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-91/hifz-web-91.zip",
-  "sha256": "c155e279af284dfd1d5626302182adcefc04af350a3a40a8f86badad78b9cdfd",
+  "build": 92,
+  "version": "1.0.92",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-92/hifz-web-92.zip",
+  "sha256": "e630771ba314d3b44087abe148cf679671e9a7efea12a3b1cbfff4d79facf062",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-79/Hifz-al-Quran-79.apk",
-  "notes": "Équerre à 1 point du bord, calée au pixel réel ; barre de progression mise à jour à chaque appui.",
-  "date": "2026-11-26T01:20:55Z"
+  "notes": "Correctif : équerre de côté de page mal placée dans l'APK.",
+  "date": "2026-11-26T01:32:46Z"
 }
