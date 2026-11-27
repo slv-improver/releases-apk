@@ -1,9 +1,9 @@
 {
-  "build": 94,
-  "version": "1.0.94",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-94/hifz-web-94.zip",
-  "sha256": "d66a58e806b88606880952dc1e8b89c8fb4ee7050bb73dd4d510c4e864dfd0bb",
+  "build": 95,
+  "version": "1.0.95",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-95/hifz-web-95.zip",
+  "sha256": "f5540523c029043e7cb3d338770e62a1188364b8dd0497f56460bf852b1bbdf0",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-79/Hifz-al-Quran-79.apk",
-  "notes": "Sujets cachés : le numéro caché en fin d'extrait prend le trait de son verset.",
-  "date": "2026-11-26T13:38:09Z"
+  "notes": "Erreurs à renforcer : aussi les mots des passages du jour ; trait continu en Warsh ; lettres mémorisées et barre verte dans les statistiques.",
+  "date": "2026-11-27T08:40:54Z"
 }
