@@ -1,9 +1,9 @@
 {
-  "build": 96,
-  "version": "1.0.96",
-  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-96/hifz-web-96.zip",
-  "sha256": "683fbfc616e79fae844a34292b4e6dd24a60a3887efe6ba7281d461e50a7cdae",
+  "build": 97,
+  "version": "1.0.97",
+  "url": "https://github.com/slv-improver/releases-apk/releases/download/hifz-web-97/hifz-web-97.zip",
+  "sha256": "22c3b7a325ff2886a29be51b90eb698906edaf7858d6ea6a9e6ee36a05af8276",
   "apk": "https://github.com/slv-improver/releases-apk/releases/download/hifz-apk-79/Hifz-al-Quran-79.apk",
-  "notes": "Accueil : « Erreurs à renforcer » affiche aussi les erreurs des passages du jour.",
-  "date": "2026-11-27T09:07:00Z"
+  "notes": "Écran allumé en touchant le numéro de page ; auto-test : extrait au plus près du nombre de lettres demandé.",
+  "date": "2026-11-28T18:13:21Z"
 }
